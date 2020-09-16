@@ -34,5 +34,5 @@
 Fork or download this repo, move inside and run
 
 ## Issues
-- [X] No longer under active development
+- [x] No longer under active development
 - [ ] Not sensitive to daylight savings time
