@@ -25,9 +25,14 @@
 
 - 🔥 **Live**: Deployed soon
 
-  ## Installation and usage
-  Serve in localhost and run
+<!---  SCREENSHOOT   -->
+<div align="center">
+    <img src="" width="200"/>
+</div>
 
-  ## Issues
-  - **No longer under active development**
-  - Not sensitive to daylight savings time
+## Installation and usage
+Fork or download this repo, move inside and run
+
+## Issues
+- [X] No longer under active development
+- [ ] Not sensitive to daylight savings time
