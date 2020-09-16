@@ -13,6 +13,8 @@
   
   🔥 **TimeBox**  is a Chrome/Firefox extension aimed at helping remote teams by making it easier to see from where and when their co-worker's do their work during   COVID-19 pandemic. 🔥
   
+  </div>
+  
   ## Features
 
 - ⚒️ **Simple**: Bootstrapped for fast and reliable
@@ -29,6 +31,3 @@
   ## Issues
   - **No longer under active development**
   - Not sensitive to daylight savings time
-
-
-</div>
