@@ -19,16 +19,16 @@ a {
   color: #000;
 }
 
-.fa-youtube:hover {
-  color: red;
+.fa-linkedin:hover {
+  color: blue;
 }
 
 .fa-facebook:hover {
   color: blue;
 }
 
-.fa-twitter:hover {
-  color: lightblue;
+.fa-instagram:hover {
+  color: pink;
 }
 
 .fa-github:hover {

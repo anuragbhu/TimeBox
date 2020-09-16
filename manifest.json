@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "TimeBox",
   "version": "1.0.0",
-  "description": "TimeBox is an extension aimed at helping remote teams by making it easier to see where and when their coworkers are.",
+  "description": "TimeBox is an extension aimed at helping remote teams by making it easier to see where and when their co-worker's are.",
   "author": "Anurag Pandey",
   "icons": {
     "128": "images/clock.png"
