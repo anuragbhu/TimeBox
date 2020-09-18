@@ -27,9 +27,9 @@
 
 <!---  SCREENSHOOT   -->
 <div align="center">
-    <img src="./images/Screenshot_1.png" width="300"/><br>
-    <img src="./images/Screenshot_2.png" width="300"/><br>
-    <img src="./images/Screenshot_3.png" width="300"/>
+    <img src="./images/Screenshot_1.png" width="500"/><br>
+    <img src="./images/Screenshot_2.png" width="500"/><br>
+    <img src="./images/Screenshot_3.png" width="500"/>
 </div>
 
 ## Installation and usage
